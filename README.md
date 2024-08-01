@@ -63,9 +63,9 @@
 
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SutharMahendra&hide_progress=true&theme=monokai" alt=SutharMahendra />
+<img align="left" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SutharMahendra&hide_progress=true&theme=monokai" alt=SutharMahendra />
 
-<p><img align="right" height="180em" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SutharMahendra&theme=monokai" alt="SutharMahendra" /></p>
+<p><img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SutharMahendra&theme=monokai" alt="SutharMahendra" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="left">Statistics</h3>
 <div align="center">
