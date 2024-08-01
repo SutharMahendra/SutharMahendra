@@ -3,8 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SutharMahendra&theme=" alt="SutharMahendra" /></a> </p>
 
-- 🔭 I’m currently working on **C Language**
-- 🌱 I’m currently learning **HTML/CSS/JAVASCRIPT**
+- 🔭 I’m currently working on **java Language**
+- 🌱 I’m currently learning **DSA**
 
 
 - ⚡ Fun fact **I think i'm funny**
