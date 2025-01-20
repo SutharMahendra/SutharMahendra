@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SutharMahendra&label=Profile%20views&color=0e75b6&style=flat" alt="SutharMahendra" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SutharMahendra&theme=" alt="SutharMahendra" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/young-man-working-laptop-park-vector-illustration-cartoon-style_941097-9462.jpg" />
+<img align="right" style="margin-right: 30px" alt="Coding" width="400" height='400' src="https://img.freepik.com/premium-photo/young-man-working-laptop-park-vector-illustration-cartoon-style_941097-9462.jpg" />
 
 - 🔭 I’m currently working on **java Language**
 - 🌱 I’m currently learning **DSA**
